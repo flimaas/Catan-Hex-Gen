@@ -3,3 +3,7 @@
 ################################################################################
 
 /Library
+/Temp
+/UnityPackageManager
+/ProjectSettings
+/.vs

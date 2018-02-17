@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6c08265841a82784db5d51164cf5906c
+timeCreated: 1518873645
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hexLand: {fileID: 4526024405259208, guid: a4d515c773341a54585eefaeea094217, type: 2}
+  - hexWater: {fileID: 4217957942357226, guid: 10054a3959ec5d44eb91e184e066870a, type: 2}
+  - hexHabour: {fileID: 4048383305995228, guid: ca0fbdd502f1fc645886320011d49a00,
+      type: 2}
+  - hex: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
